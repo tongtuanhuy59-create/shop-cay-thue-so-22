@@ -1,0 +1,16 @@
+{
+  "orders": [],
+  "cards": [],
+  "feedbacks": [],
+  "users": {
+    "adminhuy": {
+      "password": "12345680",
+      "balance": 500000,
+      "totalDeposited": 500000,
+      "userId": "USER_ADMIN"
+    }
+  },
+  "adminUsers": ["adminhuy"],
+  "services": [],
+  "shopCategories": []
+}
